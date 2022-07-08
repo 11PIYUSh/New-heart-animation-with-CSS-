@@ -37,7 +37,7 @@ html {
   border-radius: 50%;
   transform: translateY(-50%);
 }
-.centerdiv::after {
+.center_div::after {
   content: "";
   width: 100%;
   height: 100%;
