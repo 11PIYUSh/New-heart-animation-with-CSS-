@@ -12,10 +12,11 @@ h1{
   display: grid;
   place-items: center;
   position: relative;
-  top: 70rem;
-  color: #ee5253;
-  background: hsl(212, 29%, 94%);
-  
+  top: 37rem;
+  color: rgba(red, green, blue, 10);
+ /* background: hsl(212, 29%, 94%);*/
+  z-index: 1;
+  animation: hbeat 1s linear infinite;
 }
 
 .main_header {
