@@ -14,7 +14,7 @@ h2{
   place-items: center;
   position: relative;
   top: 37rem;
-  color: #00FF00;
+  color: blanchedalmond;
  /* background: hsl(212, 29%, 94%);*/
   z-index: 1;
   animation: hbeat 1s linear infinite;
