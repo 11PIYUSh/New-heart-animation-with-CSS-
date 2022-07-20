@@ -19,9 +19,21 @@ h2{
   z-index: 1;
   animation: hbeat 1s linear infinite;
   background: none;
- 
 }
 
+h2 a{
+  text-decoration: none;
+}
+
+img{
+  width: 40px;
+  height: 40px;
+  background: none;
+  position: relative;
+  
+  color: blanchedalmond;
+  
+}
 .main_header {
   width: 100vw;
   height: 100vh;
